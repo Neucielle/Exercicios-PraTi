@@ -33,8 +33,3 @@ Antes de começar, certifique-se de que você tem o seguinte instalado:
      node nome_do_arquivo.js
      ```
 
-    ## OBS: No exercicio de número 4, 11 e 13 é necessário a instalação do módulo: `prompt-sync` e execute o seguinte commando:
-  ```bash
-   npm install prompt-sync
-   ```
-
